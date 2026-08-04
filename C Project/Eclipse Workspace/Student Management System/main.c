@@ -2,7 +2,6 @@
  Name         : Student Management System
  Submitted by : Abdulrahman Adel
  Group        : 96
- Submiited to : Mohamed Tarek ❤❤❤❤
  **************************************************************************************************/
 
 #include <stdio.h>
